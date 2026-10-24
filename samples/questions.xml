@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="multichoice">
+    <name>
+      <text>Welche Aussagen über Energie sind richtig?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Aussagen über Energie sind richtig?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>4.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>1
+    </showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist richtig</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist teilweise richtig.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist falsch</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="-50" format="html">
+      <text><![CDATA[<p>Energie ist eine Eigenschaft der Materie.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.3333" format="html">
+      <text><![CDATA[<p>Der Energieverbrauch der Welt steigt ständig an.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text><![CDATA[<p>Die Industrie ist der größte Energieverbraucher.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.3333" format="html">
+      <text><![CDATA[<p>Regenerative Energiequellen gewinnen immer mehr an Bedeutung.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.3333" format="html">
+      <text><![CDATA[<p>Effiziente Nutzung von Energie ist eines der wichtigsten Mittel zum Energiesparen.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <createdby>
+      Ralph Pieper-Wörle (supported by OpenAI GPT 4 and 5)
+    </createdby>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Woher kommt die Energie auf der Erde?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Woher kommt die Energie auf der Erde?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>1
+    </showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist richtig</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist teilweise richtig.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist falsch</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>Von der Sonne.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.3333" format="html">
+      <text><![CDATA[<p>Von der Fotosynthese der Pflanzen.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.3333" format="html">
+      <text><![CDATA[<p>Durch die Umwandlung von Holz in fossile Brennstoffe.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-33.3333" format="html">
+      <text><![CDATA[<p>Durch die Erwärmung von Luftmassen und Verdunstung von Wasser.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text><![CDATA[<p>Aus dem heißen Inneren der Erde.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <createdby>
+      Ralph Pieper-Wörle (supported by OpenAI GPT 4 and 5)
+    </createdby>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Welche Energieformen gibt es?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Welche Energieformen gibt es?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>2.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>1
+    </showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist richtig</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist teilweise richtig.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist falsch</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="33.3333" format="html">
+      <text><![CDATA[<p>Mechanische Energie</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.3333" format="html">
+      <text><![CDATA[<p>Chemische Energie</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.3333" format="html">
+      <text><![CDATA[<p>Innere Energie</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text><![CDATA[<p>Elektronische Energie</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text><![CDATA[<p>Kälteenergie</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <createdby>
+      Ralph Pieper-Wörle (supported by OpenAI GPT 4 and 5)
+    </createdby>
+  </question>
+  <question type="cloze">
+    <name>
+      <text>Fülle die Lücken mit den passendsten Begriffen aus.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Energie ist die Fähigkeit durch ihre Umwandlung etwas zu {1:SHORTANSWER:~=bewirken}. Energie kann von einer Form in eine andere umgewandelt werden, aber sie kann weder geschaffen noch zerstört werden, was als {2:SHORTANSWER:~=Energieerhaltungsgesetz~=Gesetz der Energieerhaltung~=Energieerhaltung} bekannt ist. Beispiel: Bei einem Skater in der Halfpipe wird die {1:SHORTANSWER:~=potenzielle Energie~=Lageenergie~=Höhenenergie} am höchsten Punkt in {1:SHORTANSWER:~=kinetische Energie} umgewandelt, wenn er nach unten fährt. Auf der anderen Seite erreicht er nicht mehr die gleiche Höhe, weil ein Teil der Energie durch {1:SHORTANSWER:~=Reibung} in {1:SHORTANSWER:~=Wärmeenergie~=thermische Energie} umgewandelt wird.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <createdby>
+      Ralph Pieper-Wörle (supported by OpenAI GPT 4 and 5)
+    </createdby>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Was sind Energiewandler?</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Was sind Energiewandler?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>4.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <showstandardinstruction>1
+    </showstandardinstruction>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist richtig</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist teilweise richtig.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist falsch</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Geräte und Maschinen, die Energie von einer Form in eine andere umwandeln.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Geräte und Maschinen, die Energie erzeugen.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Geräte und Maschinen, die Energie vernichten.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Geräte und Maschinen, die Energie speichern.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text><![CDATA[<p>Geräte und Maschinen, die Energie transportieren.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <createdby>
+      Ralph Pieper-Wörle (supported by OpenAI GPT 4 and 5)
+    </createdby>
+  </question>
+  <question type="matching">
+    <name>
+      <text>Ordne die hauptsächlichen Energieformen den Beispielen zu.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Ordne die hauptsächlichen Energieformen den Beispielen zu.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>3.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist richtig</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist teilweise richtig.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Die Antwort ist falsch</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <subquestion format="html">
+      <text><![CDATA[<p>Mechanische Energie</p>]]></text>
+      <answer>
+        <text>Ein rollender Ball</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Chemische Energie</p>]]></text>
+      <answer>
+        <text>Verbrennung von Holz</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Elektrische Energie</p>]]></text>
+      <answer>
+        <text>Strom aus der Steckdose</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Strahlungsenergie</p>]]></text>
+      <answer>
+        <text>Sonnenlicht</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text><![CDATA[<p>Thermische Energie</p>]]></text>
+      <answer>
+        <text>Erwärmtes Wasser</text>
+      </answer>
+    </subquestion>
+    <createdby>
+      Ralph Pieper-Wörle (supported by OpenAI GPT 4 and 5)
+    </createdby>
+  </question>
+
+</quiz>
