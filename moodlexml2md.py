@@ -281,7 +281,8 @@ def convert_multichoice(question) -> str:
 
 def convert_cloze(question) -> str:
     """Convert a cloze (fill-in-the-blank) question to Markdown."""
-    question_text = get_element_text(question, 'questiontext')
+    heading, body, full_text = question_text_parts(question)
+    question_text = body if heading else full_text
     
     # Convert cloze format from Moodle to simplified Markdown
     # Pattern: {1:SHORTANSWER:~=answer1~=answer2} -> {answer1|answer2}
@@ -300,7 +301,7 @@ def convert_cloze(question) -> str:
     
     question_text = re.sub(r'\{([^}]+)\}', simplify_cloze, question_text)
     
-    lines = [question_header(question, "Cloze", include_question_text=False), question_text, ""]
+    lines = [question_header(question, "Cloze", include_question_text=bool(heading)), question_text, ""]
     
     return "\n".join(lines)
 

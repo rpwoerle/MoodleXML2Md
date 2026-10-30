@@ -162,32 +162,26 @@
         <text></text>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
+    <answer fraction="-25" format="html">
       <text><![CDATA[<p>Geräte und Maschinen, die Energie erzeugen.</p>]]></text>
       <feedback format="html">
         <text></text>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
+    <answer fraction="-25" format="html">
       <text><![CDATA[<p>Geräte und Maschinen, die Energie vernichten.</p>]]></text>
       <feedback format="html">
         <text></text>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
+    <answer fraction="-25" format="html">
       <text><![CDATA[<p>Geräte und Maschinen, die Energie speichern.</p>]]></text>
       <feedback format="html">
         <text></text>
       </feedback>
     </answer>
-    <answer fraction="-20" format="html">
+    <answer fraction="-25" format="html">
       <text><![CDATA[<p>Geräte und Maschinen, die Energie transportieren.</p>]]></text>
-      <feedback format="html">
-        <text></text>
-      </feedback>
-    </answer>
-    <answer fraction="-20" format="html">
-      <text><![CDATA[<p></p>]]></text>
       <feedback format="html">
         <text></text>
       </feedback>
@@ -326,7 +320,8 @@
       <text>Energielückentext</text>
     </name>
     <questiontext format="html">
-      <text><![CDATA[<p>Energie ist die Fähigkeit durch ihre Umwandlung etwas zu {1:SHORTANSWER:~=bewirken}. Energie kann von einer Form in eine andere umgewandelt werden, aber sie kann weder geschaffen noch zerstört werden, was als {2:SHORTANSWER:~=Energieerhaltungsgesetz~=Gesetz der Energieerhaltung~=Energieerhaltung} bekannt ist. Beispiel: Bei einem Skater in der Halfpipe wird die {1:SHORTANSWER:~=potenzielle Energie~=Lageenergie~=Höhenenergie} am höchsten Punkt in {1:SHORTANSWER:~=kinetische Energie} umgewandelt, wenn er nach unten fährt. Auf der anderen Seite erreicht er nicht mehr die gleiche Höhe, weil ein Teil der Energie durch {1:SHORTANSWER:~=Reibung} in {1:SHORTANSWER:~=Wärmeenergie~=thermische Energie} umgewandelt wird.</p>
+      <text><![CDATA[<h5>Fülle die Lücken im folgenden Text mit den korrekten Begriffen aus.</h5>
+<p>Energie ist die Fähigkeit durch ihre Umwandlung etwas zu {1:SHORTANSWER:~=bewirken}. Energie kann von einer Form in eine andere umgewandelt werden, aber sie kann weder geschaffen noch zerstört werden, was als {2:SHORTANSWER:~=Energieerhaltungsgesetz~=Gesetz der Energieerhaltung~=Energieerhaltung} bekannt ist. Beispiel: Bei einem Skater in der Halfpipe wird die {1:SHORTANSWER:~=potenzielle Energie~=Lageenergie~=Höhenenergie} am höchsten Punkt in {1:SHORTANSWER:~=kinetische Energie} umgewandelt, wenn er nach unten fährt. Auf der anderen Seite erreicht er nicht mehr die gleiche Höhe, weil ein Teil der Energie durch {1:SHORTANSWER:~=Reibung} in {1:SHORTANSWER:~=Wärmeenergie~=thermische Energie} umgewandelt wird.</p>
 <p></p>
 <table border="1">
 <thead><tr><th style="padding: 5px;">Energieform</th><th style="padding: 5px;">Formel</th></tr></thead>

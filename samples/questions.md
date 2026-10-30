@@ -34,7 +34,7 @@
 - Mehrmals pro Woche [100%]
 - Jeden Tag [100%]
 
-## Cloze: Energielückentext
+## Cloze: Fülle die Lücken im folgenden Text mit den korrekten Begriffen aus.||Energielückentext
 Energie ist die Fähigkeit durch ihre Umwandlung etwas zu {1:bewirken}. Energie kann von einer Form in eine andere umgewandelt werden, aber sie kann weder geschaffen noch zerstört werden, was als {2:Energieerhaltungsgesetz|Gesetz der Energieerhaltung|Energieerhaltung} bekannt ist. Beispiel: Bei einem Skater in der Halfpipe wird die {1:potenzielle Energie|Lageenergie|Höhenenergie} am höchsten Punkt in {1:kinetische Energie} umgewandelt, wenn er nach unten fährt. Auf der anderen Seite erreicht er nicht mehr die gleiche Höhe, weil ein Teil der Energie durch {1:Reibung} in {1:Wärmeenergie|thermische Energie} umgewandelt wird.
 | Energieform | Formel |
 | --- | --- |
