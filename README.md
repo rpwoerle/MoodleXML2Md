@@ -1,4 +1,6 @@
 # MoodleXML2Md
+[![Python 3.14+](https://img.shields.io/badge/python-3.14+-blue.svg)](https://www.python.org/downloads/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 MoodleXML2Md converts Moodle quiz XML files into Markdown. It can convert one
 file, several files, wildcard matches, or every XML file in a directory.
